@@ -14,7 +14,8 @@ Breaking changes:
 
 New features:
 
-- *add item here*
+- Split up ``registry.xml``, uses new feature while its not changing anything.
+  [jensens]
 
 Bug fixes:
 
